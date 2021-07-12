@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.header {
+    position: relative;
+    top: 30px;
+    width: 15%;
+}
+.header-link {
+    list-style-type: none;
+}
+li {
+    height: 25px;
+}
+.teory {
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+.teory-link {
+padding-left: 0px;
+margin-left: -30px;
+
+}
+span {
+    font-size: x-large;
+}
