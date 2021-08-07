@@ -1,0 +1,29 @@
+body {
+    background-color: burlywood;
+}
+.wrapper {
+    width: 500px;
+    max-height: 500px;
+}
+.firstbox {
+    color: orange;
+    background-color: black;
+    width: 100%;
+    max-height: 100%px;
+    border: 2px solid red;
+    padding: 0 10px;
+    margin: 20px;
+}
+
+.secondbox {
+    color: orange;
+    background-color: black;
+    width: 100%;
+    max-height: 100%;
+    border: 2px solid red;
+    padding: 0 10px;
+    margin: 20px;
+}
+p {
+    text-indent: 1.5em;
+}

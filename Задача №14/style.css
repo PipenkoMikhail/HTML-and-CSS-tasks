@@ -1,0 +1,32 @@
+.wrapper {
+    display: flex;
+    justify-content: flex-start;
+    margin: 100px 0 0 100px;
+}
+.line {
+    width: 15px;
+    height: 200px;
+    background-color: rgb(219, 219, 219);
+    overflow: hidden;
+}
+.nav {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    border-top: 2px dotted black;
+    width: 180px;
+}
+a {
+    display: block;
+    margin: 5px 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+}
+a:hover {
+    display: block;
+    background-color: brown;
+    color: white;
+    padding-left: 20px;
+    border-radius: 4px;
+}

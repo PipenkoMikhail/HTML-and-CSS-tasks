@@ -1,0 +1,17 @@
+body {
+    background-color: burlywood;
+}
+.wrapper {
+    height: 200px;
+    width: 300px;
+}
+.dashed-line {
+    position: absolute;
+    height: 180px;
+    width: 5px;
+    border-left: 4px dotted blue;
+}
+.text {
+    font-size: 18px;
+    margin-left: 20px;
+}

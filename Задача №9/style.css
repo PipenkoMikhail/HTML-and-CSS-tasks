@@ -1,0 +1,28 @@
+body {
+    background: turquoise;
+    height: 600px;
+    width: 1000px;
+}
+.wrapper {
+    position: relative;
+    height: 600px;
+    width: 800px;
+}
+.one, .two, .three {
+    position: relative;
+    height: 150px;
+    width: 500px;
+    margin: 20px auto;
+}
+p {
+    position: absolute;
+    height: 120px;
+    width: 500px;
+    overflow: auto;
+    padding: 10px;
+    background-color: white;
+    color: orange;
+    margin: 10px auto;
+    border-top: 10px double turquoise;
+    border-bottom: 10px double turquoise;
+}

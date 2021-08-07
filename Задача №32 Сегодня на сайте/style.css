@@ -1,0 +1,16 @@
+.wrapper {
+    border: 1px solid black;
+    padding: 10px;
+    width: 250px;
+    height: 140px; 
+}
+.wrapper-table {
+    width: 250px;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+.heading {
+    color: red;
+}

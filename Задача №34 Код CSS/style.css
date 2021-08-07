@@ -1,0 +1,27 @@
+.wrapper {
+    height: 300px;
+    width: 400px;
+}
+header {
+    height: 30px;
+    background-color: rgb(185, 122, 5);
+    color: white;
+    line-height: 30px;
+    padding-left: 25px;
+}
+.text-container {
+    background-color: black;
+    color: white;
+}
+pre {
+    margin: 0;
+}
+.name-of-class {
+    color: rgb(245, 247, 175);
+}
+.property {
+    color: lightgray;
+}
+.property-value {
+    color: rgb(177, 52, 52);
+}

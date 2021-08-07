@@ -1,0 +1,30 @@
+body {
+    background-color: thistle;
+}
+.wrapper {
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+.text-block {
+    height: 650px;
+    width: 600px;
+    text-align: justify;
+    margin-left: 30%;
+}
+.fixed-block {
+    position: fixed;
+    height: 70px;
+    width: 90px;
+    text-align: center;
+    vertical-align: baseline;
+    border: 1px solid black;
+    margin: 10%;
+    background-color: white;
+}
+span {
+    display: block;
+    margin-top: 15px;
+}
